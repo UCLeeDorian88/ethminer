@@ -21,6 +21,7 @@ ipch
 *.vcxproj
 *.vcxproj.filters
 *.sln
+.vs/
 
 # VIM stuff
 *.swp
